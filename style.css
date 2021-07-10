@@ -60,6 +60,9 @@ a{
 .header-sect-top-start span i{
     color: #12a3ff !important;
 }
+.active{
+    color: #12a3ff !important;
+}
 .header-nav{
     background: #f8f9f8;
     width: 100%;
